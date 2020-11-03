@@ -28,7 +28,7 @@ https://github.com/CodeSammich/discord-bot
 - i think you need to download espeak
 - i dont know what else you need download and pip install
 - will update this section later
-- need some people to help me test out
+- need tester / fresh system to test out the requirements
 
 
 # steps to make it work on your windows 10:
