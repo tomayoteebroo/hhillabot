@@ -20,6 +20,8 @@ https://github.com/CodeSammich/discord-bot
 # please be note that after a few FMA will got delay due to server latency
 # please note that this only works on 1366*768 resolution due to that pixel position i set
 
+# another thing is sometimes there will be announcement bar on top which overlapped the hhilla hp bar, for this i created two color code at line 165, 166, 172, 173, you need to change them 
+
 # okay before you do all the steps, install this:
 - python
 - some python related library
