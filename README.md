@@ -26,7 +26,10 @@ https://github.com/CodeSammich/discord-bot
 - python
 - some python related library
 - i think you need to download espeak
-- i dont know what else you need download and pip install, will update this section later
+- i dont know what else you need download and pip install
+- will update this section later
+- need some people to help me test out
+
 
 # steps to make it work on your windows 10:
 - first go do all the discord dev portal bot thingy create a bot then invite to your server
