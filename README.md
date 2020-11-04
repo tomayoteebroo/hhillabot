@@ -5,7 +5,7 @@ https://github.com/CodeSammich/discord-bot
 
 
 # extra new feature:
-- u now no nid to manually !2 or !3 to change the phase, it change automatically using simple image library (PIL ImageGrab, cv2)
+- no more manually !2 or !3 to change the phase, it change automatically using simple image library (PIL ImageGrab, cv2)
 - can run on windows 10 instead of linux, just install python and some other stuff
 
 # what changes compared to CodeSammich:
