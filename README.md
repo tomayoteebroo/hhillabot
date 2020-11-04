@@ -38,7 +38,7 @@ this work is extended from CodeSammich code: https://github.com/CodeSammich/disc
 - note that you need to enter '!start' immediately after your party leader enter heretic hilla else the timer will off
 - after you finished (or failed) type '!stop' to stop the bot
 
-# it didnt work? make an issue or ask in reddit post, i will try to answer. 
+# it didnt work? make an issue or ask in reddit post, i will try to answer: https://www.reddit.com/r/Maplestory/comments/jnrhzf/verus_hilla_timer_discord_bot/
 
 # type '!4' after you win
 # type '!5' after you all die out
