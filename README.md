@@ -4,7 +4,7 @@ this work is extended from CodeSammich code: https://github.com/CodeSammich/disc
 
 # extra new feature:
 - automatically change phase using image library (PIL ImageGrab, cv2)
-- runnable on windows 10
+- run on windows 10
 
 # how it works:
 - detect the pixel color at 30% 2nd bar
