@@ -3,7 +3,6 @@
 # this work is extended from CodeSammich code:
 https://github.com/CodeSammich/discord-bot
 
-# i know the coding is bad, clumsy, , but it works, im lazy, 
 
 # extra new feature:
 - u now no nid to manually !2 or !3 to change the phase, it change automatically using simple image library (PIL ImageGrab, cv2)
